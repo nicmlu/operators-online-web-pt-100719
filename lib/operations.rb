@@ -7,6 +7,7 @@ def unsafe?(speed)
     return true
   else 
     return false 
+  end
 end
 
 #build with above specifics but use ternary operator ?:
